@@ -40,7 +40,7 @@ This repo contains machine learning algorithm implementations based on **ML Clas
    cd ML-codes
    ```
 2. **Run a model** \
-Navigate to a specific folder (e.g., 1_Linear_Regression.ipynb) and run the script to train and evaluate the model.
+Navigate to a specific file (e.g., 1_Linear_Regression.ipynb) and run the script to train and evaluate the model.
 
 ## 📝 Contributions
 Feel free to fork the repo, improve algorithms, or add new features!
